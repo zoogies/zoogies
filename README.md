@@ -1,6 +1,8 @@
 ![Profile views](https://gpvc.arturio.dev/Yoyolick) 
 ![GitHub followers](https://img.shields.io/github/followers/Yoyolick?style=social) 
 ![GitHub User's stars](https://img.shields.io/github/stars/Yoyolick?style=social)
+
+:fire: Longest Commit Streak: 17 Days
 ## &#x1f4c8; GitHub Stats
 <p align="center">
   <a>
