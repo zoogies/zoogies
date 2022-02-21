@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Web Design and Automation**
 
-- 📫 How to reach me **ryanzmuda@gmail.com**
+- 📫 How to reach me **ryanzmuda@gmail.com** or **Yoyo#3217** on discord
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
