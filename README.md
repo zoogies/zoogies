@@ -3,7 +3,7 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/Yoyolick?style=social)
 
 <h1 align="center">Hi 👋, I'm Ryan Zmuda</h1>
-<h3 align="center">A 17 year old student developer</h3>
+<h3 align="center">A 18 year old student developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yoyolick&label=Profile%20views&color=05b9e6&style=flat-square" alt="yoyolick" /> </p>
 
