@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yoyolick&label=Profile%20views&color=05b9e6&style=flat-square" alt="yoyolick" /> </p>
 <a href="https://wakatime.com/@3e73d21c-9ccb-4e77-ab4d-6f58f0296cfa"><img src="https://wakatime.com/badge/user/3e73d21c-9ccb-4e77-ab4d-6f58f0296cfa.svg" alt="Total time coded since Jan 2 2021" /></a>
 
-- 🌱 I’m currently learning **pytorch for language model fine-tuning**
+- 🌱 I’m currently learning **C for kernal programming**
 
 - 🎯 I'm planning to learn **Rust, Firebase, C++**
 
