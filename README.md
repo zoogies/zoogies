@@ -12,7 +12,7 @@
 
 - 🎯 I'm planning to learn **Rust, Firebase, C++**
 
-- 📫 How to reach me **ryanzmuda@gmail.com** or **Yoyo#3217** on discord
+- 📫 How to reach me **ryanzmuda@gmail.com** or **@zoogies** on discord
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
