@@ -8,4 +8,4 @@
       You can reach me at <b>ryanzmuda@gmail.com</b> or <b>@zoogies</b> on Discord.
       You can find my resume and portfolio on <a href="https://zmuda.dev">my website</a>.
       
-      I also maintain a handful of <a href="https://zoogies.live">assorted projects and APIs </a>.</pre></div></pre>
+      I also maintain a handful of <a href="https://zoogies.live">assorted projects and APIs</a>.</pre></div></pre>
