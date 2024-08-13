@@ -11,6 +11,6 @@
        @@  @   @    @                   discord:  @zoogies
         @  @@  @      @@@@@@            email:    ryanzmuda@gmail.com
         @@ @@  @            @@@@     
-         @@ @ @@ @@@@@@@@@@@    @       "To succeed in a long and difficult project, there has to be love in the idea."
-                            @@  @@      - Jonathan Blow
+         @@ @ @@ @@@@@@@@@@@    @      "To succeed in a long and difficult project, there has to be love in the idea."
+                            @@  @@     - Jonathan Blow
                             @@@@@    
