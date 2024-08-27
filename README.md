@@ -5,7 +5,7 @@
      @@  @@   @@  @                     I work on random HW and SW projects for fun.
       @           @                     Currently completing my BS in CS @ Univeristy of Dayton
       @          @@                            
-      @@          @@                    Check out my [game engine](https://github.com/zoogies/yoyoengine) :)
+      @@          @@                    Check out my [game engine](https://github.com/yoyoengine) :)
        @           @@                
        @           @@                   Contact:
        @@  @   @    @                   discord:  @zoogies
