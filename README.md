@@ -2,15 +2,15 @@
       @@  @@  @@@@                   
       @    @@@@  @@                     Zoogies
       @           @                  
-     @@  @@   @@  @                     I work on random HW and SW projects for fun.
-      @           @                     Currently completing my BS in CS @ Univeristy of Dayton
+     @@  @@   @@  @                     I make cool stuff for fun.
+      @           @                     CS PhD student at Dartmouth College.
       @          @@                            
       @@          @@                    Check out my [game engine](https://github.com/yoyoengine) :)
        @           @@                
        @           @@                   Contact:
        @@  @   @    @                   discord:  @zoogies
-        @  @@  @      @@@@@@            email:    ryanzmuda@gmail.com
+        @  @@  @      @@@@@@            email:    ryanzmuda [at] gmail [dot] com
         @@ @@  @            @@@@     
-         @@ @ @@ @@@@@@@@@@@    @      "To succeed in a long and difficult project, there has to be love in the idea."
-                            @@  @@     - Jonathan Blow
+         @@ @ @@ @@@@@@@@@@@    @
+                            @@  @@
                             @@@@@    
